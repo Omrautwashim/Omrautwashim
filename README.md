@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I’m Om Raut from Washim!
 
-<!--
-**Omrautwashim/Omrautwashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning **Cybersecurity** using free platforms like:
+- TryHackMe (Beginner Labs)
+- Cisco NetAcad
+- YouTube (Hacking tutorials)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Goal:
+To become a **Cybersecurity Engineer** and help protect people from digital threats.
+
+---
+
+### Skills I'm Learning:
+- Linux Basics  
+- Networking & OSI Model  
+- Nmap, Wireshark  
+- Cyber Hygiene  
+
+---
+
+### My Journey:
+I'm starting from zero, with full dedication.
+Every day, I learn. Every week, I grow.
+Follow my journey as I become a Cyber Warrior.
+
+---
+
+### Connect With Me:
+More updates coming soon!
